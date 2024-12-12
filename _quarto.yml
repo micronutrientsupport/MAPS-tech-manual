@@ -14,9 +14,9 @@ book:
   version: "MAPS tool: 1.17.0"
   original-date: "original guide release xxxx 2024"
   sidebar: 
-    logo: images/MAPS_sticker_green.png  
+    logo: images/MAPS_sticker_purple.png  
     search: true
-  favicon: /images/MAPS_sticker_green.png
+  favicon: /images/MAPS_sticker_purple.png
   
   chapters:
     - index.qmd
