@@ -1,7 +1,7 @@
 # About this guide
 
-This guide provides ...
+This guide provides a technical overview of the technologies and infrastructure behind the MAPS tool to support development of additional features or mirroring of the MAPS tool to internal infrastructure
 
-Complementary guides are provided for the [MAPS tool user guide](https://help.micronutrient.support/ "MAPS tool user guide") and web developers ![work-in-progress](images/WiP_purplespanner.svg).
+Complementary guides are provided for the [functionality of the MAPS tool](https://help.micronutrient.support/ "MAPS tool user guide") and [using the MAPS tool within university and professional training](https://learning.micronutrient.support).
 
 Further information on the project and project team which created the MAPS tool can be found at the project website <https://micronutrient.support/>. A summary of our co-design process, implemented to design and test the MAPS tool, can be found at \[![](images/WiP_purplespanner.svg)\].

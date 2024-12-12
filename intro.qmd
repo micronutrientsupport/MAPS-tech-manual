@@ -2,7 +2,7 @@
 
 ## The scope of this guide
 
-This guide is aimed at ....
+This guide is aimed at technical users wishing to understand the system architecture and components of the MAPS tool with a view to contributing to the tool functionality or setting up a mirror of the MAPS tool on their own internal infrastructure
 
 ## Accessing the MAPS tool
 
@@ -15,3 +15,13 @@ Access is free of charge and does not require users to log-in. Users of the full
 ::: callout-note
 The current version of the tool is ![](images/WiP_purplespanner.svg), and **returning users** may need to check a locally cached earlier version is not being used. If this is the case, follow your browser instructions to clear the cache and refresh your version of the MAPS tool.
 :::
+
+## MAPS Source Code Repositories
+
+Source code for the various components of the MAPS tool along with various data processing scripts, utility packages are provided on the *micronutrientsupport* organisation on Github at <https://github.com/micronutrientsupport>.  Unless otherwise stated, most repositories are provided under an MIT License.
+
+Key repositories for the running and deploying the MAPS tool are listed below:
+
+- [micronutrient-support-tool](https://github.com/micronutrientsupport/micronutrient-support-tool) - The front-end interface of the tool, an Angular web-application
+- [database-architecture](https://github.com/micronutrientsupport/database-architecture) - The postgres database that stores the data behind the tool
+- [api](https://github.com/micronutrientsupport/api) - A node.js API used by the front-end to access data

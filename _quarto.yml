@@ -4,7 +4,7 @@ project:
 book:
   title: "MAPS tool technical guide"
   subtitle: "The Micronutrient Action Policy Support (MAPS) tool"
-  author: "MAPS team"
+  author: "MAPS development team"
   #date-format: "dd/MM/YYYY"
   #date-format: "long"
   date: "12/12/2024"  #use USA format.

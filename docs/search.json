@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "MAPS tool technical guide",
     "section": "",
-    "text": "1 About this guide\nThis guide provides …\nComplementary guides are provided for the MAPS tool user guide and web developers .\nFurther information on the project and project team which created the MAPS tool can be found at the project website https://micronutrient.support/. A summary of our co-design process, implemented to design and test the MAPS tool, can be found at [].",
+    "text": "1 About this guide\nThis guide provides a technical overview of the technologies and infrastructure behind the MAPS tool to support development of additional features or mirroring of the MAPS tool to internal infrastructure\nComplementary guides are provided for the functionality of the MAPS tool and using the MAPS tool within university and professional training.\nFurther information on the project and project team which created the MAPS tool can be found at the project website https://micronutrient.support/. A summary of our co-design process, implemented to design and test the MAPS tool, can be found at [].",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>About this guide</span>"
     ]
@@ -14,7 +14,7 @@
     "href": "intro.html",
     "title": "2  MAPS Tool overview",
     "section": "",
-    "text": "2.1 The scope of this guide\nThis guide is aimed at ….",
+    "text": "2.1 The scope of this guide\nThis guide is aimed at technical users wishing to understand the system architecture and components of the MAPS tool with a view to contributing to the tool functionality or setting up a mirror of the MAPS tool on their own internal infrastructure",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>MAPS Tool overview</span>"
     ]
@@ -177,6 +177,16 @@
     "text": "4.5 MAPS tool activity [45 mins]\n·       Students are provided with a brief walk-through of the Quick MAPS tool, looking at Food Systems data on vitamin A in Tanzania and Nigeria as examples.\n·       Students are shown the difference between Food Balance Sheet and HCES data sources.\n·       The class are then split into groups of 3-4 students each. Working in these groups, students use the QuickMAPS tool to answer the following questions:\no   What is the median apparent intake of calcium in Malawi? Do you think the population is likely to be at risk of inadequate intake of calcium?\no   Can you find one micronutrient whose intake is highly seasonal? Why might this be?\no   What is the main food item that contributes to calcium intake in Malawi?\no   What is the contribution of milk (all types) to calcium intake in Malawi?\no   What can you say about subnational differences in calcium intakes? Comment on the distribution of apparent intakes (histogram)?\no   Which food composition tables were used to derive this data, and what are the potential problems with that?\n·       Students are given approximately 20 minutes to conduct this activity, and the lecturer can walk round the classroom to check on progress and answer any clarifying questions from the students.\n·       Groups are then asked to feedback on their findings.\n·       The exercise concludes with a class discussion on the appropriate use of HCES data to generate insights on sub-national dietary micronutrient supplies, and inform the design, delivery and monitoring of nutrition interventions.",
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Using the MAPS tool in postgraduate Masters-level teaching</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#maps-source-code-repositories",
+    "href": "intro.html#maps-source-code-repositories",
+    "title": "2  MAPS Tool overview",
+    "section": "2.3 MAPS Source Code Repositories",
+    "text": "2.3 MAPS Source Code Repositories\nSource code for the various components of the MAPS tool along with various data processing scripts, utility packages are provided on the micronutrientsupport organisation on Github at https://github.com/micronutrientsupport. Unless otherwise stated, most repositories are provided under an MIT License.\nKey repositories for the running and deploying the MAPS tool are listed below:\n\nmicronutrient-support-tool - The front-end interface of the tool, an Angular web-application\ndatabase-architecture - The postgres database that stores the data behind the tool\napi - A node.js API used by the front-end to access data",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>MAPS Tool overview</span>"
     ]
   }
 ]
