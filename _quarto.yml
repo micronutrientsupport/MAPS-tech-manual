@@ -1,0 +1,36 @@
+project:
+  type: book  # check if all parms work with this proj type
+  output-dir: docs
+book:
+  title: "MAPS tool technical guide"
+  subtitle: "The Micronutrient Action Policy Support (MAPS) tool"
+  author: "MAPS team"
+  #date-format: "dd/MM/YYYY"
+  #date-format: "long"
+  date: "12/12/2024"  #use USA format.
+  #original-date: "20/11/2024"
+  #site-url: https://learning.micronutrient.support/
+  status: "under construction"
+  version: "MAPS tool: 1.17.0"
+  original-date: "original guide release xxxx 2024"
+  sidebar: 
+    logo: images/MAPS_sticker_green.png  
+    search: true
+  favicon: /images/MAPS_sticker_green.png
+  
+  chapters:
+    - index.qmd
+    - intro.qmd
+    # - summary.qmd
+#    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
