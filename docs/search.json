@@ -68,5 +68,45 @@
     "crumbs": [
       "<span class='chapter-number'>4</span>  <span class='chapter-title'>Database Architecture</span>"
     ]
+  },
+  {
+    "objectID": "api.html",
+    "href": "api.html",
+    "title": "5  API",
+    "section": "",
+    "text": "5.1 Overview\nThe MAPS api is designed for use on systems with node.js and is compatible with versions 16+.\nLoopback4 is used as the framework for developing and running the API\nThe reccomended means for running the API in production is using docker. A dockerfile is provided in the source code repository.",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>API</span>"
+    ]
+  },
+  {
+    "objectID": "api.html#getting-started",
+    "href": "api.html#getting-started",
+    "title": "5  API",
+    "section": "5.2 Getting started",
+    "text": "5.2 Getting started\n\nClone the api repository from GitHub\nRun npm install to install package dependencies\nRun npm run start to start the API.\n\nThe API will be accesible at http://localhost:3000",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>API</span>"
+    ]
+  },
+  {
+    "objectID": "api.html#documentation",
+    "href": "api.html#documentation",
+    "title": "5  API",
+    "section": "5.3 Documentation",
+    "text": "5.3 Documentation\nDocumentation for the available routes provided by the API and their expected parameters can be found at https://api.micronutrient.support/v2/explorer",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>API</span>"
+    ]
+  },
+  {
+    "objectID": "api.html#api-version",
+    "href": "api.html#api-version",
+    "title": "5  API",
+    "section": "5.4 API Version",
+    "text": "5.4 API Version\nThe current version of the API and other metadata can be found at the /self/version endpoint. For example https://api.micronutrient.support/v2/self/version",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>API</span>"
+    ]
   }
 ]

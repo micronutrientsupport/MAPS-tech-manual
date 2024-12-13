@@ -1,1 +1,24 @@
 # API
+
+## Overview
+
+The MAPS api is designed for use on systems with [node.js](https://nodejs.org/) and is compatible with versions 16+.
+
+[Loopback4](https://loopback.io/) is used as the framework for developing and running the API
+
+The reccomended means for running the API in production is using docker. A dockerfile is provided in the source code repository.
+
+## Getting started
+
+- Clone the [api](https://github.com/micronutrientsupport/api) repository from GitHub
+- Run `npm install` to install package dependencies
+- Run `npm run start` to start the API.  
+- The API will be accesible at <http://localhost:3000>
+
+## Documentation
+
+Documentation for the available routes provided by the API and their expected parameters can be found at <https://api.micronutrient.support/v2/explorer>
+
+## API Version
+
+The current version of the API and other metadata can be found at the `/self/version` endpoint.  For example <https://api.micronutrient.support/v2/self/version>

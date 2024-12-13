@@ -145,7 +145,16 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="header-section-number">5.1</span> Overview</a></li>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started"><span class="header-section-number">5.2</span> Getting started</a></li>
+  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation"><span class="header-section-number">5.3</span> Documentation</a></li>
+  <li><a href="#api-version" id="toc-api-version" class="nav-link" data-scroll-target="#api-version"><span class="header-section-number">5.4</span> API Version</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -169,8 +178,32 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="overview" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="overview"><span class="header-section-number">5.1</span> Overview</h2>
+<p>The MAPS api is designed for use on systems with <a href="https://nodejs.org/">node.js</a> and is compatible with versions 16+.</p>
+<p><a href="https://loopback.io/">Loopback4</a> is used as the framework for developing and running the API</p>
+<p>The reccomended means for running the API in production is using docker. A dockerfile is provided in the source code repository.</p>
+</section>
+<section id="getting-started" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="getting-started"><span class="header-section-number">5.2</span> Getting started</h2>
+<ul>
+<li>Clone the <a href="https://github.com/micronutrientsupport/api">api</a> repository from GitHub</li>
+<li>Run <code>npm install</code> to install package dependencies</li>
+<li>Run <code>npm run start</code> to start the API.<br>
+</li>
+<li>The API will be accesible at <a href="http://localhost:3000" class="uri">http://localhost:3000</a></li>
+</ul>
+</section>
+<section id="documentation" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="documentation"><span class="header-section-number">5.3</span> Documentation</h2>
+<p>Documentation for the available routes provided by the API and their expected parameters can be found at <a href="https://api.micronutrient.support/v2/explorer" class="uri">https://api.micronutrient.support/v2/explorer</a></p>
+</section>
+<section id="api-version" class="level2" data-number="5.4">
+<h2 data-number="5.4" class="anchored" data-anchor-id="api-version"><span class="header-section-number">5.4</span> API Version</h2>
+<p>The current version of the API and other metadata can be found at the <code>/self/version</code> endpoint. For example <a href="https://api.micronutrient.support/v2/self/version" class="uri">https://api.micronutrient.support/v2/self/version</a></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
