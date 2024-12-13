@@ -18,9 +18,9 @@ The MAPS database architecture is designed for use with [Postgres](https://www.p
 
 ## Database Architecture
 
-The MAPS data model exists within a single schema, visualised below. For more detail on table and field purposes, please see the table, view and field descriptions in the generated entities.
+The MAPS data model exists within a single schema, visualised below (click to expand). For more detail on table and field purposes, please see the table, view and field descriptions in the generated entities.
 
-![MAPS Entity Relationship Diagram](images/MAPS_ER_diagram.png)
+[![MAPS Entity Relationship Diagram](images/MAPS_ER_diagram.png)](images/MAPS_ER_diagram.png){target="_blank"}
 
 ### Loading Additional Data
 
