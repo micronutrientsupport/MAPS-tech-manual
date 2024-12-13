@@ -1,0 +1,29 @@
+# Database Architecture
+
+## Overview
+
+The MAPS database architecture is designed for use with [Postgres](https://www.postgresql.org/) databases and is compatible with Postgres versions 13+. The [PostGIS](https://postgis.net/) spatial extension is required for handling spatial coordinate data.
+
+[Flyway](https://flywaydb.org/) can be used to run and manage the database migration scripts to spin up an instance of the MAPS database.
+
+## Getting Started
+
+-   Clone the [database-architeture](https://github.com/micronutrientsupport/database-architecture) repository from GitHub
+
+-   Install flyway
+
+-   Rename `flyway.conf.template` to `flyway.conf` and fill in the configuration
+
+-   Run `flyway migrate` to run all the sql scripts. Run `flyway clean migrate` to delete pre-existing data in the schema and re-create the db objects from scratch
+
+## Database Architecture
+
+The MAPS data model exists within a single schema, visualised below. For more detail on table and field purposes, please see the table, view and field descriptions in the generated entities.
+
+![MAPS Entity Relationship Diagram](images/MAPS_ER_diagram.png)
+
+### Loading Additional Data
+
+The data model is deisnged to support loading of additional datasets which could then be displayed in an instance of the tool interface. All key datasests (FCT, FBS, HCES datasets etc.) are described using a polygonal coverage area which is utilized by the tool when deciding which datasets to combine for a given output.
+
+Though the initial focus of the MAPS tool is Sub Saharan Africa, this flexible data model would allow a version of the tool to support datasets from a different geographic locale.
