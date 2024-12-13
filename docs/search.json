@@ -30,156 +30,6 @@
     ]
   },
   {
-    "objectID": "Teaching_undergraduate.html",
-    "href": "Teaching_undergraduate.html",
-    "title": "3  Using the MAPS tool in undergraduate teaching",
-    "section": "",
-    "text": "3.1 Context\nThis exercise was used as the basis for a group assessed exercise for first year undergraduate students. The groups were drawn together with members from the different agriculture-nutrition degree schemes in the School of Biosciences, University of Nottingham, generally with 5-6 members in each module group.\nIn addition to their scientific understanding, this assessment included both teaching support for, and assessment criteria of, team-working and presentation skills; these are not included here. The assessment took place in the regular university exam period after all taught components of the course were complete.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Using the MAPS tool in undergraduate teaching</span>"
-    ]
-  },
-  {
-    "objectID": "Teaching_undergraduate.html#setting-the-group-exercise",
-    "href": "Teaching_undergraduate.html#setting-the-group-exercise",
-    "title": "3  Using the MAPS tool in undergraduate teaching",
-    "section": "3.2 Setting the group exercise",
-    "text": "3.2 Setting the group exercise\nEach group is presented with a unique nutrient – country combination available in the MAPS tool. This information was shared with students before the first in-person practical session.\n\n\n\n\n\n\nWe use only countries with national-scale data. This balances having sufficient information for our learning objectives, whilst keeping the volume of data manageable for the course requirements.\n\n\n\n\n\n\n\n\n\n\n\n\nWe prioritise nutrients with both large-scale food fortification and biofortification strategies that are reasonably well documented, as well as a dietary change option, in order to provide an equal academic opportunity to all the groups to find examples they can use.\n\n\n\n\n\n\nIn undertaking this group exercise, students were encouraged to draw upon their own degree experience complementary to their team colleagues. This was in addition to the common-to-all taught (lecture) component of this module in “sustainable agriculture, food and nutrition”.\nThe taught practical component of this part of the module is described below. In order to complete this assignment, the assignment groups were expected to organise additional sessions to work together.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Using the MAPS tool in undergraduate teaching</span>"
-    ]
-  },
-  {
-    "objectID": "Teaching_undergraduate.html#practical-sessions",
-    "href": "Teaching_undergraduate.html#practical-sessions",
-    "title": "3  Using the MAPS tool in undergraduate teaching",
-    "section": "3.3 Practical sessions",
-    "text": "3.3 Practical sessions\nA computer lab was used to train the approximately 90 students in each cohort, either concurrently or asynchronously depending on room availability and timetabling. The MAPS tool was designed to work efficiently on low-bandwidth systems, with the added benefit that performance was not compromised during the first hands-on session when all 90 students individually connected (at the University of Nottingham).\nThe MAPS practical teaching was generally structured in three blocks lasting 90 to 120 minutes of contact time, as follows:\n\n3.3.1 Session 1\nBackground to the MAPS tool, with additional practical examples of biofortification and large-scale food fortification interventions (lecture), followed by walk-through use of the MAPS tool (participatory).\nThis comprised, walking through selected examples in QuickMAPS https://help.micronutrient.support/QuickMAPS.html. The examples which they tackled were different to any of the country-nutrient combinations which had been preset as an assessment, to avoid a disproportionate benefit to any team(s). In this session the students were shown how to navigate and change selected country-nutrient options. This was followed by individually viewing and collectively discussing the information contained in QuickMAPS baseline and projection pages.\n\n\n3.3.2 Session 2\nReinforcement participatory session using the MAPS tool “QuickMAPS” baseline and projection data. Introduction to online resources supporting large-scale food fortification (LSFF) intervention opportunities.\nThis session was organised with groups seated and working in their assignment teams. Pre-prepared country-nutrient examples from MAPS were discussed (reinforcement of Session 1), with students expected to need less support to navigate the MAPS tool and locate information.\nThis was complemented by an introduction to the Global Fortification Data Exchange GFDx https://fortificationdata.org/, which presents data on large-scale food fortification for each country globally. MAPS uses input data from GFDx for the cost-effectiveness calculations. Here we introduce the students to GFDx so they can consider fortification opportunities and challenges in the country - nutrient examples used in this session. Students were shown how to navigate the GFDx country dashboards so they could use in the information provided.\nStudents were expected to integrate observations from the MAPS tool (baseline, projections) and GFDx to form narrative (not quantitative) LSFF intervention suggestions that fit with the nutrient in existing food system of the nation being discussed. These were discussed as a classroom, or with tutors moving around the groups, depending on the number of groups in the session.\nThis session provided opportunities to: work as a team; contribute to answering the classroom questions; asking academic staff for any clarifications; and, developing their food systems thinking for the countries they were looking at.\n\n\n3.3.3 Session 3\nReinforcement participatory session using the MAPS tool “QuickMAPS” baseline and projection data. Introduction to online resources supporting biofortification intervention opportunities.\nThis session was organised with groups seated and working in their assignment teams. Pre-prepared country-nutrient examples from MAPS were discussed (reinforcement of Session 1 and 2), with students expected to independently navigate the MAPS tool and locate information (whilst being able to ask for help if they needed it).\nThis was complemented by an introduction to the Biofortification Priority Index (BPI) https://bpi.harvestplus.org/about_using_bpi.html, which presents prioritised data for nations, and documents biofortified crops. Here we introduce the students to BPI so they can consider biofortification opportunities and challenges in the country - nutrient examples used in this session. Students were shown how to navigate the BPI dashboards so they could use in the information provided.\nStudents were expected to integrate observations from the MAPS tool (baseline, projections) and BPI to form narrative (not quantitative) biofortification intervention suggestions that fit with the chosen nutrient in the existing food system of the nation being discussed. These were discussed as a classroom, or with tutors moving around the groups, depending on the number of groups in the session. The student groups were also reminded of the similar approach used for LSFF in the previous session.\n\n\n3.3.4 Example discussion structures\nThese are a selection of structured discussions used in the three sessions, in order to develop thinking around micronutrient deficiencies and feasible intervention options.\n\nExplore data for &lt;country&gt; and &lt;nutrient&gt; in MAPS in QuickMAPS Baseline pages\n\n\nWhat is the nutrient availability, and how does this compared to the harmonised average requirement threshold ?\nWhat differences might be experienced by populations within the country that are masked by the national-scale data?\nWhat might be the underlying cause(s) of these differences?\nWhich foods are the primary source of this nutrient in this country?\nAre these foods all nutrient-dense for that nutrient (a “good source” of the nutrient), or is it because they are eaten in large quantities?\n\n\nNavigate to QuickMAPS Projections for the same country and nutrient:\n\n\nLocate the main graph and discover the text explaining Shared Socioeconomic Pathways (SSP).\nWhat is the expected trajectory for this country-nutrient through time?\nDoes this vary by SSP?\nIs it expected that the nutrient deficiency will vastly improve, or resolve, through time with no additional interventions?\nWhich food groups (the lower graph) contribute to any changes observed in the SSP1-3 trajectores for this nutrient?\nWill there be any differences likely to be experienced within the country population (as in ‘Baseline’ discussion point).\n\nDiscuss what interventions may be appropriate in this food system and why using an example from large-scale food fortification and one from biofortification.",
-    "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Using the MAPS tool in undergraduate teaching</span>"
-    ]
-  },
-  {
-    "objectID": "Teaching_postgraduate.html",
-    "href": "Teaching_postgraduate.html",
-    "title": "4  Using the MAPS tool in postgraduate Masters-level teaching",
-    "section": "",
-    "text": "4.1 Context\n·       This exercise was designed for students undertaking the MSc Nutrition for Global Health at the London School of Hygiene & Tropical Medicine https://www.lshtm.ac.uk/study/courses/masters-degrees/nutrition-global-health\n·       The MSc Nutrition for Global Health is an intensive, one-year taught course. The class size is typically 15-25 students.\n·       The exercise was integrated into a 3-hour lecture on ‘National and subnational dietary assessment’, which comes mid-way through the Term One module Fundamental Public Health Nutrition. The module introduces students to key information and concepts in public health nutrition, including different approaches to assessing the nutritional status of populations. Further information on the module can be found here: https://www.lshtm.ac.uk/study/courses/modules/intensive-modules/module-specifications",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Using the MAPS tool in postgraduate Masters-level teaching</span>"
-    ]
-  },
-  {
-    "objectID": "Training_QuickMAPS.html",
-    "href": "Training_QuickMAPS.html",
-    "title": "5  Professional training in MAPS",
-    "section": "",
-    "text": "5.1 MAPS learning sessions\nThese sessions held within conferences have all been applied to under open calls for training/learning sessions. These are also listed under the ‘Conferences’ header on https://micronutrient.support/publications",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Professional training in MAPS</span>"
-    ]
-  },
-  {
-    "objectID": "Training_CostEffectiveness.html",
-    "href": "Training_CostEffectiveness.html",
-    "title": "6  MAPS cost modelling training resources",
-    "section": "",
-    "text": "This section is under development",
-    "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>MAPS cost modelling training resources</span>"
-    ]
-  },
-  {
-    "objectID": "intro.html#section",
-    "href": "intro.html#section",
-    "title": "2  Learning resources for MAPS",
-    "section": "2.3 ",
-    "text": "2.3",
-    "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Learning resources for MAPS</span>"
-    ]
-  },
-  {
-    "objectID": "Training_QuickMAPS.html#key-learning-sessions",
-    "href": "Training_QuickMAPS.html#key-learning-sessions",
-    "title": "5  Professional training in MAPS",
-    "section": "",
-    "text": "Conference sessions\n\n\n\n54th Annual General Meeting and Scientific Conference of the Nutrition Society of Nigeria Kano, Nigeria https://nutritionnigeria.org/kano-2024-loading/ \nPre-Conference Workshop (learning session) Exploring micronutrient deficiencies using the open-access, web-based Micronutrient Action Policy Support (MAPS) tool Samuel, Eyinla et al.  \n\nAgriculture, Nutrition and Health (ANH) ANH2024 Learning Labs (Online) https://www.anh-academy.org/academy-week/2024   \nLearning Lab Using the MAPS tool to model the cost and cost-effectiveness of food systems interventions: economic evaluations for non-economists Adams et al  \n \nMicronutrient Forum 2023 The Hague, The Netherlands https://micronutrientforum.org/conferences/micronutrient-forum-6th-global-conference-for-nutrition-for-resilience/  \nLearning Center Micronutrient intervention cost modeling using the MAPS tool: an introduction for non-economists Adams et al. \n\n8th Annual Agriculture, Nutrition and Health (ANH) Academy Week 2023 Lilongwe, Malawi, https://www.anh-academy.org/academy-week/2023 \nLearning Lab Exploring micronutrient deficiencies using the open-access, web-based Micronutrient Action Policy Support (MAPS) Tool Tull, Millar et al.  \nSide Event New resources for nutrition analysis using Household Consumption and Expenditure Survey data Joy, Ander et al.  \nAgriculture, Nutrition and Health (ANH) ANH2022 (Online) https://www.anh-academy.org/academy-week/2022  \nSide Event LSMS for Nutrition – Learning Hub Joy et al.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Professional training in MAPS</span>"
-    ]
-  },
-  {
-    "objectID": "Training_QuickMAPS.html#workshop-training",
-    "href": "Training_QuickMAPS.html#workshop-training",
-    "title": "5  Professional training in MAPS",
-    "section": "5.2 Workshop training",
-    "text": "5.2 Workshop training",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Professional training in MAPS</span>"
-    ]
-  },
-  {
-    "objectID": "Training_QuickMAPS.html#maps-learning-sessions",
-    "href": "Training_QuickMAPS.html#maps-learning-sessions",
-    "title": "5  Professional training in MAPS",
-    "section": "",
-    "text": "5.1.1 Conference sessions\n54th Annual General Meeting and Scientific Conference of the Nutrition Society of Nigeria Kano, Nigeria https://nutritionnigeria.org/kano-2024-loading/ \nPre-Conference Workshop (learning session) Exploring micronutrient deficiencies using the open-access, web-based Micronutrient Action Policy Support (MAPS) tool Samuel, Eyinla et al.  \n\nAgriculture, Nutrition and Health (ANH) ANH2024 Learning Labs (Online) https://www.anh-academy.org/academy-week/2024   \nLearning Lab Using the MAPS tool to model the cost and cost-effectiveness of food systems interventions: economic evaluations for non-economists Adams et al  \n \nMicronutrient Forum 2023 The Hague, The Netherlands https://micronutrientforum.org/conferences/micronutrient-forum-6th-global-conference-for-nutrition-for-resilience/  \nLearning Center Micronutrient intervention cost modeling using the MAPS tool: an introduction for non-economists Adams et al. \n\n8th Annual Agriculture, Nutrition and Health (ANH) Academy Week 2023 Lilongwe, Malawi, https://www.anh-academy.org/academy-week/2023 \nLearning Lab Exploring micronutrient deficiencies using the open-access, web-based Micronutrient Action Policy Support (MAPS) Tool Tull, Millar et al.  \nSide Event New resources for nutrition analysis using Household Consumption and Expenditure Survey data Joy, Ander et al.  \nAgriculture, Nutrition and Health (ANH) ANH2022 (Online) https://www.anh-academy.org/academy-week/2022  \nSide Event LSMS for Nutrition – Learning Hub Joy et al.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Professional training in MAPS</span>"
-    ]
-  },
-  {
-    "objectID": "Training_QuickMAPS.html#conference-sessions",
-    "href": "Training_QuickMAPS.html#conference-sessions",
-    "title": "5  Professional training in MAPS",
-    "section": "5.2 Conference sessions",
-    "text": "5.2 Conference sessions\n54th Annual General Meeting and Scientific Conference of the Nutrition Society of Nigeria Kano, Nigeria https://nutritionnigeria.org/kano-2024-loading/ \nPre-Conference Workshop (learning session) Exploring micronutrient deficiencies using the open-access, web-based Micronutrient Action Policy Support (MAPS) tool Samuel, Eyinla et al.  \n\nAgriculture, Nutrition and Health (ANH) ANH2024 Learning Labs (Online) https://www.anh-academy.org/academy-week/2024   \nLearning Lab Using the MAPS tool to model the cost and cost-effectiveness of food systems interventions: economic evaluations for non-economists Adams et al  \n \nMicronutrient Forum 2023 The Hague, The Netherlands https://micronutrientforum.org/conferences/micronutrient-forum-6th-global-conference-for-nutrition-for-resilience/  \nLearning Center Micronutrient intervention cost modeling using the MAPS tool: an introduction for non-economists Adams et al. \n\n8th Annual Agriculture, Nutrition and Health (ANH) Academy Week 2023 Lilongwe, Malawi, https://www.anh-academy.org/academy-week/2023 \nLearning Lab Exploring micronutrient deficiencies using the open-access, web-based Micronutrient Action Policy Support (MAPS) Tool Tull, Millar et al.  \nSide Event New resources for nutrition analysis using Household Consumption and Expenditure Survey data Joy, Ander et al.  \nAgriculture, Nutrition and Health (ANH) ANH2022 (Online) https://www.anh-academy.org/academy-week/2022  \nSide Event LSMS for Nutrition – Learning Hub Joy et al.",
-    "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Professional training in MAPS</span>"
-    ]
-  },
-  {
-    "objectID": "Teaching_postgraduate.html#learning-objectives",
-    "href": "Teaching_postgraduate.html#learning-objectives",
-    "title": "4  Using the MAPS tool in postgraduate Masters-level teaching",
-    "section": "4.2 Learning objectives",
-    "text": "4.2 Learning objectives\n·       The lecture on ‘National and subnational dietary assessment’ has the following learning objectives:\no   Compare and contrast different sources of food consumption data for micronutrient assessment\no   Critically assess the use of food composition data tables for estimating micronutrient intake\no   Explain how to combine food consumption and composition data to inform micronutrient programmes and policies\n·       The lecture introduces students to sources and types of dietary data that may be suitable for assessing nutritional status at national scales, including Food Balance Sheets and Household Consumption and Expenditure Surveys (HCES).\n·       The MAPS activity provides an ‘active learning’ approach to aid students’ learning and understanding of the links between food systems and dietary micronutrient supplies and deficiency risks, and the strengths and limitations of using HCES data to conduct such analyses and support subsequent programme/policy decisions.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Using the MAPS tool in postgraduate Masters-level teaching</span>"
-    ]
-  },
-  {
-    "objectID": "Teaching_postgraduate.html#introducing-hces-as-a-source-of-dietary-information-15-mins",
-    "href": "Teaching_postgraduate.html#introducing-hces-as-a-source-of-dietary-information-15-mins",
-    "title": "4  Using the MAPS tool in postgraduate Masters-level teaching",
-    "section": "4.3 Introducing HCES as a source of dietary information [15 mins]",
-    "text": "4.3 Introducing HCES as a source of dietary information [15 mins]\n·       Students are introduced to HCES as a family of nationally representative, multicomponent economic surveys which provide data to characterize an array of socioeconomic conditions.\n·       The methods of collecting food consumption data within HCES are introduced, alongside the subsequent processing of these data to generate nutrition metrics, including integration of food composition data and conversion to adult male or adult female equivalents.\n·       The students are shown examples of spatial and seasonal variations in (a) millet and (b) mango consumption in Nigeria, with maps and plots created using offline MAPS analyses.\n·       This section concludes with a summary of strengths and limitations of HCES data.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Using the MAPS tool in postgraduate Masters-level teaching</span>"
-    ]
-  },
-  {
-    "objectID": "Teaching_postgraduate.html#modeling-the-potential-contributions-of-large-scale-food-fortification-interventions-in-malawi-20-mins",
-    "href": "Teaching_postgraduate.html#modeling-the-potential-contributions-of-large-scale-food-fortification-interventions-in-malawi-20-mins",
-    "title": "4  Using the MAPS tool in postgraduate Masters-level teaching",
-    "section": "4.4 Modeling the potential contributions of large-scale food fortification interventions in Malawi [20 mins]",
-    "text": "4.4 Modeling the potential contributions of large-scale food fortification interventions in Malawi [20 mins]\n·       Students are presented with a case study use of HCES data, drawing on the following analysis: Tang K et al. (2021) Annals NYAS, 1508: 105-122. https://doi.org/10.1111/nyas.14697\n·       In this study, dietary vitamin A supplies were quantified and analysed to determine risks of deficiency in Malawi. Scenarios were run to determine the current contribution of food fortification towards addressing dietary vitamin A shortfalls, and to show the potential for further gains through improved industry compliance.\n·       Students are shown how the data can be disaggregated by key socioeconomic criteria (e.g. rural/urban residency, household wealth quintile, etc.) to reveal equity insights.\n·       The policy relevance of these findings are discussed, including the observation that food fortification is important for dietary vitamin A supplies, but the intervention does not adequately provide for poorer rural populations.\n·       The findings are compared and interpreted alongside summary findings from the 2015-16 national micronutrient biomarker survey",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Using the MAPS tool in postgraduate Masters-level teaching</span>"
-    ]
-  },
-  {
-    "objectID": "Teaching_postgraduate.html#maps-tool-activity-45-mins",
-    "href": "Teaching_postgraduate.html#maps-tool-activity-45-mins",
-    "title": "4  Using the MAPS tool in postgraduate Masters-level teaching",
-    "section": "4.5 MAPS tool activity [45 mins]",
-    "text": "4.5 MAPS tool activity [45 mins]\n·       Students are provided with a brief walk-through of the Quick MAPS tool, looking at Food Systems data on vitamin A in Tanzania and Nigeria as examples.\n·       Students are shown the difference between Food Balance Sheet and HCES data sources.\n·       The class are then split into groups of 3-4 students each. Working in these groups, students use the QuickMAPS tool to answer the following questions:\no   What is the median apparent intake of calcium in Malawi? Do you think the population is likely to be at risk of inadequate intake of calcium?\no   Can you find one micronutrient whose intake is highly seasonal? Why might this be?\no   What is the main food item that contributes to calcium intake in Malawi?\no   What is the contribution of milk (all types) to calcium intake in Malawi?\no   What can you say about subnational differences in calcium intakes? Comment on the distribution of apparent intakes (histogram)?\no   Which food composition tables were used to derive this data, and what are the potential problems with that?\n·       Students are given approximately 20 minutes to conduct this activity, and the lecturer can walk round the classroom to check on progress and answer any clarifying questions from the students.\n·       Groups are then asked to feedback on their findings.\n·       The exercise concludes with a class discussion on the appropriate use of HCES data to generate insights on sub-national dietary micronutrient supplies, and inform the design, delivery and monitoring of nutrition interventions.",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Using the MAPS tool in postgraduate Masters-level teaching</span>"
-    ]
-  },
-  {
     "objectID": "intro.html#maps-source-code-repositories",
     "href": "intro.html#maps-source-code-repositories",
     "title": "2  MAPS Tool overview",
@@ -187,6 +37,36 @@
     "text": "2.3 MAPS Source Code Repositories\nSource code for the various components of the MAPS tool along with various data processing scripts, utility packages are provided on the micronutrientsupport organisation on Github at https://github.com/micronutrientsupport. Unless otherwise stated, most repositories are provided under an MIT License.\nKey repositories for the running and deploying the MAPS tool are listed below:\n\nmicronutrient-support-tool - The front-end interface of the tool, an Angular web-application\ndatabase-architecture - The postgres database that stores the data behind the tool\napi - A node.js API used by the front-end to access data",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>MAPS Tool overview</span>"
+    ]
+  },
+  {
+    "objectID": "database-architecture.html",
+    "href": "database-architecture.html",
+    "title": "4  Database Architecture",
+    "section": "",
+    "text": "4.1 Overview\nThe MAPS database architecture is designed for use with Postgres databases and is compatible with Postgres versions 13+. The PostGIS spatial extension is required for handling spatial coordinate data.\nFlyway can be used to run and manage the database migration scripts to spin up an instance of the MAPS database.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Database Architecture</span>"
+    ]
+  },
+  {
+    "objectID": "database-architecture.html#getting-started",
+    "href": "database-architecture.html#getting-started",
+    "title": "4  Database Architecture",
+    "section": "4.2 Getting Started",
+    "text": "4.2 Getting Started\n\nClone the database-architeture repository from GitHub\nInstall flyway\nRename flyway.conf.template to flyway.conf and fill in the configuration\nRun flyway migrate to run all the sql scripts. Run flyway clean migrate to delete pre-existing data in the schema and re-create the db objects from scratch",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Database Architecture</span>"
+    ]
+  },
+  {
+    "objectID": "database-architecture.html#database-architecture",
+    "href": "database-architecture.html#database-architecture",
+    "title": "4  Database Architecture",
+    "section": "4.3 Database Architecture",
+    "text": "4.3 Database Architecture\nThe MAPS data model exists within a single schema, visualised below. For more detail on table and field purposes, please see the table, view and field descriptions in the generated entities.\n\n\n\nMAPS Entity Relationship Diagram\n\n\n\n4.3.1 Loading Additional Data\nThe data model is deisnged to support loading of additional datasets which could then be displayed in an instance of the tool interface. All key datasests (FCT, FBS, HCES datasets etc.) are described using a polygonal coverage area which is utilized by the tool when deciding which datasets to combine for a given output.\nThough the initial focus of the MAPS tool is Sub Saharan Africa, this flexible data model would allow a version of the tool to support datasets from a different geographic locale.",
+    "crumbs": [
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Database Architecture</span>"
     ]
   }
 ]

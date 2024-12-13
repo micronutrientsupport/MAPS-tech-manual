@@ -21,6 +21,9 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - micronutrient-support-tool.qmd
+    - database-architecture.qmd
+    - api.qmd
     # - summary.qmd
 #    - references.qmd
 
