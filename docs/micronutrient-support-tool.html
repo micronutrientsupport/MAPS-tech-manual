@@ -146,7 +146,15 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview"><span class="header-section-number">3.1</span> Overview</a></li>
+  <li><a href="#getting-started" id="toc-getting-started" class="nav-link" data-scroll-target="#getting-started"><span class="header-section-number">3.2</span> Getting started</a></li>
+  <li><a href="#documentation" id="toc-documentation" class="nav-link" data-scroll-target="#documentation"><span class="header-section-number">3.3</span> Documentation</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -170,8 +178,27 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="overview" class="level2" data-number="3.1">
+<h2 data-number="3.1" class="anchored" data-anchor-id="overview"><span class="header-section-number">3.1</span> Overview</h2>
+<p>The MAPS front-end tool is an <a href="https://angular.dev/">Angular</a> web application which consumes the API</p>
+<p>The reccomended means for running the API in production is using docker. A dockerfile is provided in the source code repository.</p>
+</section>
+<section id="getting-started" class="level2" data-number="3.2">
+<h2 data-number="3.2" class="anchored" data-anchor-id="getting-started"><span class="header-section-number">3.2</span> Getting started</h2>
+<ul>
+<li>Clone the <a href="https://github.com/micronutrientsupport/micronutrient-support-tool">micronutrient-support-tool</a> repository from GitHub</li>
+<li>Run <code>npm install</code> to install package dependencies</li>
+<li>Run <code>npm run start</code> to start the API.<br>
+</li>
+<li>The API will b e accesible at <a href="http://localhost:8100" class="uri">http://localhost:8100</a></li>
+</ul>
+</section>
+<section id="documentation" class="level2" data-number="3.3">
+<h2 data-number="3.3" class="anchored" data-anchor-id="documentation"><span class="header-section-number">3.3</span> Documentation</h2>
+<p>Documentation for the components and modules which makes up the tool application can be generated via <a href="https://compodoc.app/">compodoc</a> using the command <code>npx @compodoc/compodoc@1.1.15 -p ./tsconfig.json</code></p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

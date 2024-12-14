@@ -108,5 +108,35 @@
     "crumbs": [
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>API</span>"
     ]
+  },
+  {
+    "objectID": "micronutrient-support-tool.html",
+    "href": "micronutrient-support-tool.html",
+    "title": "3  Micronutrient Support Tool",
+    "section": "",
+    "text": "3.1 Overview\nThe MAPS front-end tool is an Angular web application which consumes the API\nThe reccomended means for running the API in production is using docker. A dockerfile is provided in the source code repository.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Micronutrient Support Tool</span>"
+    ]
+  },
+  {
+    "objectID": "micronutrient-support-tool.html#getting-started",
+    "href": "micronutrient-support-tool.html#getting-started",
+    "title": "3  Micronutrient Support Tool",
+    "section": "3.2 Getting started",
+    "text": "3.2 Getting started\n\nClone the micronutrient-support-tool repository from GitHub\nRun npm install to install package dependencies\nRun npm run start to start the API.\n\nThe API will b e accesible at http://localhost:8100",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Micronutrient Support Tool</span>"
+    ]
+  },
+  {
+    "objectID": "micronutrient-support-tool.html#documentation",
+    "href": "micronutrient-support-tool.html#documentation",
+    "title": "3  Micronutrient Support Tool",
+    "section": "3.3 Documentation",
+    "text": "3.3 Documentation\nDocumentation for the components and modules which makes up the tool application can be generated via compodoc using the command npx @compodoc/compodoc@1.1.15 -p ./tsconfig.json",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Micronutrient Support Tool</span>"
+    ]
   }
 ]

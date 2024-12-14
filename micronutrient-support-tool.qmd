@@ -1,1 +1,18 @@
 # Micronutrient Support Tool
+
+## Overview
+
+The MAPS front-end tool is an [Angular](https://angular.dev/) web application which consumes the API
+
+The reccomended means for running the API in production is using docker. A dockerfile is provided in the source code repository.
+
+## Getting started
+
+- Clone the [micronutrient-support-tool](https://github.com/micronutrientsupport/micronutrient-support-tool) repository from GitHub
+- Run `npm install` to install package dependencies
+- Run `npm run start` to start the API.  
+- The API will b e accesible at <http://localhost:8100>
+
+## Documentation
+
+Documentation for the components and modules which makes up the tool application can be generated via [compodoc](https://compodoc.app/) using the command `npx @compodoc/compodoc@1.1.15 -p ./tsconfig.json`
